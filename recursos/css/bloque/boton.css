@@ -1,0 +1,41 @@
+.grupo-btn {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.btn {
+    padding: .8rem 2rem;
+    text-transform: uppercase;
+    display: inline-block;
+    text-decoration: none;
+    background: var(--secundario);
+    color: var(--letra-clara);
+    border-radius: 1rem;
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    -ms-border-radius: 1rem;
+    -o-border-radius: 1rem;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-principal_lineas {
+    border: solid 1px var(--principal);
+    background: none;
+    color: var(--principal);
+    
+}
+
+.btn-secundario_lineas {
+    border: solid 1px var(--secundario);
+    background: none;
+    color: var(--secundario);
+}
+
+@media screen and (min-width: 768px) {
+    .grupo-btn {
+        justify-content: center;
+        gap: 1rem;
+    }
+}

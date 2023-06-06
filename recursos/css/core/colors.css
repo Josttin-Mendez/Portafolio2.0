@@ -1,0 +1,11 @@
+:root {
+    --principal: #000000;
+    --secundario: #4871F7;
+    --terciario: #FCA61F;
+    --fondo: #F1F3FF;
+    --titulo: #002E5A;
+    --letra-oscura: #323E4D;
+    --letra-semioscura: #505C69;
+    --letra-clara: #FFFFFF;
+    --sombra: 0 0 1.5rem 0 rgba(0, 0, 0, .15);
+}
