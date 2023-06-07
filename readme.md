@@ -1,8 +1,5 @@
-<div style="text-align: center;">
+# Portafolio
 
-</div>  
-
-<hr />
 
 ### Índice  
 - [Descripción del proyecto](#Descripción-del-proyecto)  
